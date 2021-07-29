@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 <link rel="canonical" href="http://example.com/news">
 
 http://localhost:8000/released.amp.html#development=1
+<script data-ad-client="ca-pub-2866913078679389" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
