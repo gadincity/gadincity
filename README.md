@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 <link rel="canonical" href="http://example.com/news">
 
+http://localhost:8000/released.amp.html#development=1
